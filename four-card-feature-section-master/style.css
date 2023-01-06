@@ -95,6 +95,8 @@ h1{
 p{
 	color:hsl(229, 6%, 66%) ;
 }
+footer{
+	text-align:center;
 
 @media (max-width:600px){
 	main{
@@ -118,6 +120,7 @@ p{
 /*	align-items: center;*/
 
 	}
+	
 	.middle-card{
 		margin: 0px;
 		padding: 0px;
